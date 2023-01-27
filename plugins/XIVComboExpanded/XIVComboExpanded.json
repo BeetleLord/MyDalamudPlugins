@@ -1,9 +1,9 @@
 {
-  "Author": "attick, daemitus",
+  "Author": "Beetle Lord",
   "Name": "XIV Combo Expanded",
   "InternalName": "XIVComboExpanded",
   "AssemblyVersion": "1.4.0.6",
-  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+  "Description": "Testing...",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
   "DalamudApiLevel": 8,
