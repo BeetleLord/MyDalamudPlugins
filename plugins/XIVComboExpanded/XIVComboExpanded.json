@@ -5,13 +5,13 @@
   "AssemblyVersion": "1.4.0.6",
   "Description": "Testing...",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+  "RepoUrl": "https://github.com/BeetleLord/XIVComboPlugin",
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [],
-  "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
-  "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+  "IconUrl": "https://raw.githubusercontent.com/BeetleLord/XIVComboPlugin/master/res/icon.png",
+  "Punchline": "Testing...",
   "AcceptsFeedback": true
 }
